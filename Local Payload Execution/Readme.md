@@ -9,7 +9,6 @@ Shellcode: Allocates memory and creates a thread to execute the payload.
 # Build
 
 ```
-git clone https://github.com/FromAbbys/RustCrabOperations/tree/94144fae41e9f6a4d29607d56c83f02fd7231a44/Local%20Payload%20Execution
 cd <directory>
 cargo build --release
 ```
