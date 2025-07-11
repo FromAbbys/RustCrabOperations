@@ -5,14 +5,13 @@ I will upload my study progress and update the code as I improve.
 This repository is focused on the WINDOWS platform.
 
 -----
+# Disclaimer
 
-Disclaimer
 This repository and its projects are intended for educational and research purposes only. Malicious or improper use of this content is prohibited and strongly discouraged.
 I am not responsible for any damage, misuse, or any consequences resulting from the use of the software presented here.
 
 
 -----
-
 # Usage
 
 Each project will have its own folder and a README file with specific instructions.
