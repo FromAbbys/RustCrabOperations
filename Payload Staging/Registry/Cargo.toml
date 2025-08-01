@@ -1,0 +1,16 @@
+[package]
+name = "Registry"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+windows-sys = { version = "0.60.2", features = [
+    "Win32_System_Registry",
+    "Win32_Foundation",
+    "Win32_System_Memory"
+    ]}
+rc4 = "0.1.0"
+
+[features]
+writemode = []
+readmode  = []
