@@ -1,0 +1,13 @@
+[package]
+name = "NtQuerySystemInformation"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+windows-sys = {version = "0.60.2", features = [
+    "Wdk_System_SystemInformation",
+    "Win32_System_Memory",
+    "Win32_System_ProcessStatus",
+    "Win32_Foundation",
+    "Win32_System_Threading"
+]}
